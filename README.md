@@ -29,7 +29,7 @@ Open config/app.php and add these lines
 Now You can use QrCode Class anywhere in your blade files
 
 I have already added an example blade file which you can call using directly using route or controller.
-If you need detailed info about this Plugin 
+If you need detailed info about this Plugin read this Doc https://www.simplesoftware.io/#/docs/simple-qrcode
 
 Thanks for reading my Blah Blah.
 
